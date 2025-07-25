@@ -24,17 +24,34 @@ My experience in computer networks has sparked an interest in related fields, su
 ## Tools
 
 
-### Network
+### Network and DevOps Tools
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&color=005073&labelColor=005073" />
+  
+ 
+   <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logo=proxmox&logoColor=white" />
+   <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Oracle-F80000?&style=for-the-badge&logo=oracle&logoColor=black" />
+   <img src="https://img.shields.io/badge/-GitLab-FC6D26?&style=for-the-badge&logo=gitlab&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Zabbix-D50000?style=for-the-badge&logo=zabbix&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  
+</a>
 </div>
 
-### Endpoint
+### ITSM and Operating System
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=00B4A5&labelColor=000000"/>
+     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+       <img src="https://img.shields.io/badge/-Microsoft-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+       <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" />
+    
 </div>
 
 ### SIEM
@@ -43,3 +60,19 @@ My experience in computer networks has sparked an interest in related fields, su
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+### Programming Languages
+
+<div>
+   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</div>
+
